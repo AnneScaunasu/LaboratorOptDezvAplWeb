@@ -1,0 +1,14 @@
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\bin\Debug\net6.0\Tema1.exe
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\bin\Debug\net6.0\Tema1.deps.json
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\bin\Debug\net6.0\Tema1.runtimeconfig.json
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\bin\Debug\net6.0\Tema1.dll
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\bin\Debug\net6.0\Tema1.pdb
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\Tema1.AssemblyInfoInputs.cache
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\Tema1.AssemblyInfo.cs
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\Tema1.dll
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\refint\Tema1.dll
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\Tema1.pdb
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\Tema1.genruntimeconfig.cache
+C:\Users\Anne\Desktop\Facultate\Sem_1\DAW\Tema1\obj\Debug\net6.0\ref\Tema1.dll
